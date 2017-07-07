@@ -1,0 +1,11 @@
+{
+  "name": "playground-js-fork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "serge r",
+  "license": "WTFPL.org"
+}
